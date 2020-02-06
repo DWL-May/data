@@ -1,5 +1,5 @@
 {
-  "top": [
+  "TOP": [
     "Singed",
     "Rumble",
     "Yorick",
@@ -32,7 +32,7 @@
     "Riven",
     "Vladimir"
   ],
-  "jungle": [
+  "JUNGLE": [
     "Shaco",
     "Ekko",
     "Zac",
@@ -66,7 +66,7 @@
     "Rengar",
     "Leesin"
   ],
-  "mid": [
+  "MID": [
     "Rumble",
     "Fizz",
     "Malzahar",
@@ -100,7 +100,7 @@
     "Neeko",
     "Zoe"
   ],
-  "bot": [
+  "BOT": [
     "Jhin",
     "Heimerdinger",
     "Vayne",
@@ -118,7 +118,7 @@
     "MissFortune",
     "Kaisa"
   ],
-  "support": [
+  "SUPPORT": [
     "Velkoz",
     "Zyra",
     "Blitzcrank",
