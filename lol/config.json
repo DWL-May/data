@@ -1,6 +1,6 @@
 {
   "base" : "http://ddragon.leagueoflegends.com",
-  "ver" : "/cdn/10.13.1"
+  "ver" : "/cdn/10.13.1",
   "data" : "/data",
   "champion": "champion.json",
   "item": "item.json",
