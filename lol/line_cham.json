@@ -30,7 +30,9 @@
     "Poppy",
     "Jax",
     "Riven",
-    "Vladimir"
+    "Vladimir",
+    "Lillia",
+    "Yone"
   ],
   "JUNGLE": [
     "Shaco",
@@ -64,7 +66,8 @@
     "Khazix",
     "XinZhao",
     "Rengar",
-    "Leesin"
+    "Leesin",
+    "Lillia"
   ],
   "MID": [
     "Rumble",
@@ -98,7 +101,8 @@
     "AurelionSol",
     "Ziggs",
     "Neeko",
-    "Zoe"
+    "Zoe",
+    "Yone"
   ],
   "BOTTOM": [
     "Jhin",
